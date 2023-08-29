@@ -97,7 +97,20 @@
   font-size: 20px;
 }
 
-/*main*/
+/*Contenedor-1*/
+.contenedor-1 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.contenedor-1 .cal-com {
+  padding: 100px;
+  text-align: center;
+}
+.contenedor-1 .cal-com img {
+  width: 400px;
+}
+
+/*Main*/
 .Encabezado-tarjetas {
   display: flex;
   justify-content: center;

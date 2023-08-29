@@ -120,8 +120,22 @@
     }
 }
 
+                                                            /*Contenedor-1*/
+.contenedor-1{
+    display: flex;
+    justify-content: space-evenly;
+    .cal-com{
+        padding: 100px;
+        text-align: center;
+        
+        img{
+            width: 400px;
+        }
 
-                                                        /*main*/
+    }
+}
+
+                                                        /*Main*/
 
 .Encabezado-tarjetas{
     display: flex;
