@@ -148,6 +148,7 @@
 
 .contenedor-grid {
   margin: 0px 150px;
+  background-color: #000000;
 }
 .contenedor-grid .container {
   width: 100%;
